@@ -4,17 +4,18 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
+  languageCode = "en-gb"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+# TODO
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
+#[dk]
+#  languageCode = "da-DK"
+#  contentDir = "content/dk"
+#  title = "Thomas E. Hansens personlige hjemmeside"
+#  [dk.params]
+#    description = ""
+#  [[dk.menu.main]]
+#    name = "Forside"
 #    url = "#about"
 #    weight = 1
