@@ -4,7 +4,7 @@ title: Thomas Ekström Hansen
 
 # Username (this should match the folder name)
 authors:
-- admin
+- teh6
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,10 +21,12 @@ organizations:
 bio: My research interests include low-level programming, type systems, and formal methods.
 
 interests:
-- Low-level programming
+- Systems/Low-level programming
+- Computer security
 - Information visualisation
 - Type systems
 - Formal methods
+- Data ethics
 
 education:
   courses:
@@ -40,12 +42,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: briefcase
   icon_pack: fas
-  link: 'mailto:thomas-e-hansen@teh6.eu'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:teh6@st-andrews.ac.uk"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thomas-e-hansen-5b4908138
 - icon: github
   icon_pack: fab
   link: https://github.com/CodingCellist
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:thomas-e-hansen@teh6.eu"
+- icon: user-lock
+  icon_pack: fas
+  link: files/pubkey-armor.asc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
