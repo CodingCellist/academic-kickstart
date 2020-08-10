@@ -50,7 +50,7 @@ site_type = "Person"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 # TODO
-description = ""
+description = "Personal website of Thomas Ekström Hansen"
 
 ############################
 ## Site Features
