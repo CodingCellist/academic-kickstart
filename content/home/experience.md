@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Summer Internship"
+  company = "School of Computer Science"
+  location = "St Andrews"
+  date_start = "2019-07-01"
+  date_end = "2019-08-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Using the work from the previous summer, I refined the database and used it to
+  develop [a tool](https://github.com/CodingCellist/UoStA-Module-Vis-2019) which
+  visualised pre-, anti-, and co-requisites of university modules.
+
+  The final report detailing how the database is structured and how the
+  visualisations were designed and implemented, can be found
+  [here](https://raw.githubusercontent.com/CodingCellist/UoStA-Module-Vis-2019/master/REPORT.pdf).
+
+  Tools used:
+
+  * SQL (MariaDB)
+  * Python (Flask)
+  * D3.js
+  * Bootstrap
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Summer Internship"
+  company = "School of Computer Science"
+  location = "St Andrews"
+  date_start = "2018-07-01"
+  date_end = "2018-08-31"
+  description = """
+  Developed and implemented the ER-diagram for a tool which would visualise
+  pre-, co-, and anti-requisites of university modules, similar to dependency
+  graphs.
+
+  Tools used:
+
+  * SQL (MariaDB)
+  * Elm (functional web-dev language)
+  """
+
+[[experience]]
+  title = "Summer Internship"
+  company = "School of Computer Science"
+  location = "St Andrews"
+  date_start = "2017-07-01"
+  date_end = "2017-09-15"
+  description = """
+  Developed a tool for visualising the output of a radar chip provided by
+  OmniPreSense and used this to examine its compatibility with the existing
+  [RadarCat](https://sachi.cs.st-andrews.ac.uk/research/interaction/radarcat-exploits-googles-soli-radar-sensor-for-object-and-material-recognition/)
+  project.
+
+  Tools used:
+  
+  * Java
+  * Python
+  """
 
 +++
