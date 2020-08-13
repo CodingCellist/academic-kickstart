@@ -32,7 +32,11 @@
       <div class="picture-credit">
           {{ with $page.Params.picture_credit }}
           <p>
-              image credit: 
+              {{ if $page.Params.credit_text }}
+                {{ $page.Params.credit_text | markdownify | emojify}}
+              {{ else }}
+                image credit: 
+              {{ end }}
               {{ if $page.Params.credit_url }}
                 {{- with $page.Params.credit_url}}
                 <a href="{{.}}" target="_blank" rel="noopener">{{end}}{{$page.Params.picture_credit | markdownify | emojify}}{{with $page.Params.credit_url}}</a>

@@ -11,6 +11,7 @@ title = "Profil"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "thomas-e-hansen"
-picture_credit = "Alice Lynch"
-credit_url = ""
+credit_text = "ikon lavet vha. "
+picture_credit = "picrew"
+credit_url = "https://picrew.me/image_maker/194012"
 +++
