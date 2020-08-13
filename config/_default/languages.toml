@@ -13,7 +13,6 @@
 # Uncomment the lines below to configure your website in a second language.
 [da]
   languageCode = "da"
-#  languageCode = "da-dk"
   contentDir = "content/da"
   title = "Thomas Ekström Hansen"
   [da.params]
