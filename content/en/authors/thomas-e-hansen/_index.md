@@ -4,7 +4,7 @@ title: Thomas Ekström Hansen
 
 # Username (this should match the folder name)
 authors:
-- teh6
+- thomas-e-hansen
 
 # Is this the primary user of the site?
 superuser: true

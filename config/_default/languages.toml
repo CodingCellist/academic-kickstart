@@ -5,17 +5,20 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-gb"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Thomas Ekström Hansen"
+  [en.params]
+    description = "Thomas Ekström Hansen's personal website"
 
-# TODO
 # Uncomment the lines below to configure your website in a second language.
-#[dk]
-#  languageCode = "da-DK"
-#  contentDir = "content/dk"
-#  title = "Thomas E. Hansens personlige hjemmeside"
-#  [dk.params]
-#    description = ""
-#  [[dk.menu.main]]
-#    name = "Forside"
-#    url = "#about"
-#    weight = 1
+[da]
+  languageCode = "da"
+#  languageCode = "da-dk"
+  contentDir = "content/da"
+  title = "Thomas Ekström Hansen"
+  [da.params]
+    description = "Thomas Ekström Hansens personlige hjemmeside"
+  [[da.menu.main]]
+    name = "Forside"
+    url = "#about"
+    weight = 10
