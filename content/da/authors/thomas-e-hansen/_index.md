@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Datalogi ph.d.-studerende ved
+role: Datalogi ph.d.-studerende
 
 # Organizations/Affiliations
 organizations:
