@@ -56,7 +56,7 @@ social:
   link: "mailto:thomas-e-hansen@teh6.eu"
 - icon: user-lock
   icon_pack: fas
-  link: ../files/pubkey-armor.asc
+  link: ../files/pubkey.asc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
