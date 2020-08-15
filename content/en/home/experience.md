@@ -28,9 +28,7 @@ date_format = "Jan 2006"
   develop [a tool](https://github.com/CodingCellist/UoStA-Module-Vis-2019) which
   visualised pre-, anti-, and co-requisites of university modules.
 
-  The final report detailing how the database is structured and how the
-  visualisations were designed and implemented, can be found
-  [here](https://raw.githubusercontent.com/CodingCellist/UoStA-Module-Vis-2019/master/REPORT.pdf).
+  A overview of the project [can be found here](project/uosta-module-vis/).
 
   Tools used:
 

@@ -29,10 +29,7 @@ date_format = "Jan 2006"
   kurser (f.eks. "Man skal have taget netværks-kurset på 3. år for at kunne tage
   'distributed computing'-kurset på 4. år").
 
-  Den endelige rapport, som beskriver i detaljer hvordan databasen er
-  strukturet og hvordan visualiseringerne blev designet og implementeret, kan
-  downloades
-  [her](https://raw.githubusercontent.com/CodingCellist/UoStA-Module-Vis-2019/master/REPORT.pdf).
+  En oversigt over projektet [kan ses her](project/uosta-module-vis/).
 
   Udviklet vha:
 
