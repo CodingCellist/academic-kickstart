@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "University of St Andrews kursus-visualisering"
-summary: "Et forsøg på, at visualisere forholdene mellem BSc og MSci kurserne
-          ved University of St Andrews."
+summary: "Et forsøg på, at visualisere forholdene mellem kurserne ved University
+          of St Andrews."
 authors: [thomas-e-hansen]
 tags: [visualisation, internship]
 categories: [internships, erfaring]
