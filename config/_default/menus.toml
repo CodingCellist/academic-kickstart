@@ -23,6 +23,10 @@
   url = "#accomplishments"
   weight = 40
 
+[[main]]
+  name = "Blog"
+  url = "blog"
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
