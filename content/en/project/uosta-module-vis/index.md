@@ -5,7 +5,7 @@ title: "University of St Andrews Module Visualisation"
 summary: "An attempt at visualising the UG modules and requisites at the University of St Andrews."
 authors: [thomas-e-hansen]
 tags: [visualisation, internship]
-categories: [internships, experience]
+categories: [internships, experience, en]
 date: 2019-09-17T13:26:00+02:00
 
 # Optional external URL for project (replaces project detail page).

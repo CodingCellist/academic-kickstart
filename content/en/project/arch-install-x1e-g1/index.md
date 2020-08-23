@@ -6,7 +6,7 @@ summary: "A detailed overview of how I installed Arch Linux on my Lenovo
           ThinkPad X1 Extreme (Gen 1), having never install Arch before."
 authors: [thomas-e-hansen]
 tags: [guide, install, linux, howto, arch, thinkpad]
-categories: [linux, guide]
+categories: [linux, guide, en]
 date: 2019-01-17T23:50:44+01:00
 
 # Optional external URL for project (replaces project detail page).

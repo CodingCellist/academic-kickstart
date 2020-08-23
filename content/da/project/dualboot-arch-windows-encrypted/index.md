@@ -5,7 +5,7 @@ title: "Dualbooting Arch Linux and Windows with Full-System Encryption"
 summary: "A step-by-step guide to dualbooting encrypted Windows and Arch Linux, using the rEFInd boot mananger."
 authors: [thomas-e-hansen]
 tags: [linux, guide, thinkpad, howto, encryption, install]
-categories: [linux, guide]
+categories: [linux, guide, en]
 date: 2020-01-12T12:20:39+01:00
 
 # Optional external URL for project (replaces project detail page).
