@@ -73,3 +73,13 @@ email: ""
 #- Visitors
 ---
 
+I am currently doing a PhD in Computer Science on
+[something along the lines of combining Type Theory and Formal Methods](../files/phd-proposal.pdf)
+(although this may change over the course of the project), supervised by
+[Dr Edwin Brady](https://www.type-driven.org.uk/edwinb/). I enjoy writing code,
+collaborating on projects, and helping people write or fix code. 
+
+When I'm not doing PhD things, I do Japanese Jujitsu (or rather 'did', in the
+Before Times) and occasionally play the cello. I enjoy music, hiking and
+camping, as well as a wide variety of video games, both old and new.
+
